@@ -98,7 +98,7 @@ fredkin = {  # replicator
     8:  0,
     9:  1,
 }
-next_state = vote_rule_992
+next_state = fredkin
 
 
 def draw_grid(screen):
