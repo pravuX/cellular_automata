@@ -1,11 +1,11 @@
 # What is This?
 
-It's kind of a Cellular Automata Journal where I document my adventures in Cellular Auotmata land.
+It's kind of a Cellular Automata Journal where I document my adventures in Cellular Automata land.
 
 > [!IMPORTANT]
-> All examples are written in python (version >= 3.10) and depend on the [pygame library](https://www.pygame.org/)
+> All examples are written in python (version >= 3.10) and depend on the [pygame library.](https://www.pygame.org/)
 
-# Screenshots
+# Demonstrations
 
 ## Elementary Cellular Automata
 
@@ -35,10 +35,9 @@ Here are a few configurations (known as rules) I found interesting. In order the
 ![Brain](images/brain.gif)
 
 ### Variations
+[^1]
 
 #### NLU 512
-
-[^1]
 
 ![Brain 512](images/brain_512.gif)
 
