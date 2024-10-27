@@ -11,27 +11,9 @@ grid_rows = grid_height // grid_dim
 grid = []
 
 
-def get_refractory_color(refractory_state):
-    """Return color intensity based on the number of neighbors."""
-    ...
-    # base_color = pygame.Color(247, 118, 142)
-    # effect = 0.045
-    #
-    # # Calculate brightness factor
-    # factor = min(1.0, neighbors * effect)
-    #
-    # # Create new color by blending towards black based on factor
-    # r = base_color.r - base_color.r * factor
-    # g = base_color.g + (255 - base_color.g) * factor  # blend towards white
-    # b = base_color.b - base_color.b * factor
-    #
-    # return pygame.Color(int(r), int(g), int(b))
-
-
 colors = {
     0: pygame.Color(36, 40, 59),
     1: pygame.Color(247, 118, 142),
-    2: pygame.Color(140, 67, 81)
 }
 
 
