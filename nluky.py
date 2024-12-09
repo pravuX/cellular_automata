@@ -14,7 +14,7 @@ grid = []
 # Life is NLUKY 03323; and Brain is NLUKY 12299
 # for more info see https://www.fourmilab.ch/cellab/classic/manual/chap4.html
 
-N = 5  # = 0 for Life
+N = 10  # = 0 for Life
 L = 1
 U = 2
 K = 9  # = 9 For Brain

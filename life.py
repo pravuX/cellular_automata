@@ -1,7 +1,6 @@
 from random import randint
 import pygame
 import copy
-
 grid_width = 1200
 grid_height = 900
 grid_dim = 20

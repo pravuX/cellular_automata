@@ -2,8 +2,8 @@ from random import randint
 import pygame
 
 grid_width = 800
-grid_height = 600
-grid_dim = 10
+grid_height = 400
+grid_dim = 20
 
 grid_cols = grid_width // grid_dim
 grid_rows = grid_height // grid_dim

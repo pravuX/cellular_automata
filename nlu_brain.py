@@ -10,9 +10,9 @@ grid_cols = grid_width // grid_dim
 grid_rows = grid_height // grid_dim
 grid = []
 
-N = 5
-L = 1
-U = 4
+N = 1
+L = 2
+U = 2
 
 
 colors = {
